@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pak:home|Door43 (pak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pak|d43-pak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pak/archive/master.zip|d43-pak.zip]]
+
+**Recent Changes**
+{{changes>ns = pak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pak|Ethnologue data]]
+
